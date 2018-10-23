@@ -1,0 +1,10 @@
+COMPUTER MUSIC 22/10
+
+a =np.arange(10) //array da 0 a 9
+x = np.array(np.arange(10))
+print(x)
+print (x[2:])  //array dal 2 in poi
+print (x[-2:10])
+print (x[-3:3:-1])
+
+A = np.array()
